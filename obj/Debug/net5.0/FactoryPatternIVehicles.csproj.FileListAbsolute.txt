@@ -1,0 +1,16 @@
+C:\Users\John\repos\FactoryPatternIVehicles\bin\Debug\net5.0\FactoryPatternIVehicles.exe
+C:\Users\John\repos\FactoryPatternIVehicles\bin\Debug\net5.0\FactoryPatternIVehicles.deps.json
+C:\Users\John\repos\FactoryPatternIVehicles\bin\Debug\net5.0\FactoryPatternIVehicles.runtimeconfig.json
+C:\Users\John\repos\FactoryPatternIVehicles\bin\Debug\net5.0\FactoryPatternIVehicles.runtimeconfig.dev.json
+C:\Users\John\repos\FactoryPatternIVehicles\bin\Debug\net5.0\FactoryPatternIVehicles.dll
+C:\Users\John\repos\FactoryPatternIVehicles\bin\Debug\net5.0\ref\FactoryPatternIVehicles.dll
+C:\Users\John\repos\FactoryPatternIVehicles\bin\Debug\net5.0\FactoryPatternIVehicles.pdb
+C:\Users\John\repos\FactoryPatternIVehicles\obj\Debug\net5.0\FactoryPatternIVehicles.csproj.AssemblyReference.cache
+C:\Users\John\repos\FactoryPatternIVehicles\obj\Debug\net5.0\FactoryPatternIVehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\repos\FactoryPatternIVehicles\obj\Debug\net5.0\FactoryPatternIVehicles.AssemblyInfoInputs.cache
+C:\Users\John\repos\FactoryPatternIVehicles\obj\Debug\net5.0\FactoryPatternIVehicles.AssemblyInfo.cs
+C:\Users\John\repos\FactoryPatternIVehicles\obj\Debug\net5.0\FactoryPatternIVehicles.csproj.CoreCompileInputs.cache
+C:\Users\John\repos\FactoryPatternIVehicles\obj\Debug\net5.0\FactoryPatternIVehicles.dll
+C:\Users\John\repos\FactoryPatternIVehicles\obj\Debug\net5.0\ref\FactoryPatternIVehicles.dll
+C:\Users\John\repos\FactoryPatternIVehicles\obj\Debug\net5.0\FactoryPatternIVehicles.pdb
+C:\Users\John\repos\FactoryPatternIVehicles\obj\Debug\net5.0\FactoryPatternIVehicles.genruntimeconfig.cache

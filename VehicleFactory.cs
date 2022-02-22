@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FactoryPatternIVehicles
+{
+   public static class VehicleFactory
+    {
+        public static IVehicle GetVehicle(int wheelCount)
+        {
+            switch (wheelCount)
+            {
+                 case 2:
+                    return new Motorcycle();
+                 case 4:
+                    return new Car();
+                case 3:
+                    return new ThreeWheelAtv();
+                default:
+                    return new Car();
+
+            }
+        }
+
+
+
+    }
+}
