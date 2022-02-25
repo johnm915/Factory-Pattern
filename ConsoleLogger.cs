@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace FactoryPatternIVehicles
@@ -10,8 +11,11 @@ namespace FactoryPatternIVehicles
     {
         public static void VehiclieStartup()
         {
-            Console.WriteLine("Star it up!");
-            Console.WriteLine("Put it in gear!!");
+            Console.WriteLine("Start the Vehicle");
+            Thread.Sleep(1000);
+            
+            Console.WriteLine("Put it in gear and GO!!");
+            Thread.Sleep(1000);
         }
     }
 }
